@@ -1,4 +1,4 @@
-# 🖼️ Image Handling and Pixel Transformations Using OpenCV
+## Image-Processing-Using-OpenCV
 
 ## 🎯 AIM
 To develop a Python program using OpenCV to perform image processing operations such as reading, displaying, brightness adjustment, contrast modification, and pixel transformations.
